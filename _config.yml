@@ -2,15 +2,15 @@
 # Site
 
 title: Mzansi.ai
-url: www.mzansi.ai
-baseurl: mzansi.ai
+url: https://www.mzansi.ai
+#baseurl: mzansi.ai
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Jekyll template with example content for a not-for-profit organisation.
 author:
-  name: mzansi.ai
+  name: mzansi
   email: admin@mzansi.ai
   twitter: # twitter username without the @ symbol
 social:
@@ -52,7 +52,7 @@ defaults:
     values:
       layout: "default"
 
-donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
+#donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
 newsletter_action: "//your-mailchimp-action-url.com"
 
 plugins:
