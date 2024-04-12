@@ -1,17 +1,17 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
-baseurl:
+title: Mzansi.ai
+url: www.mzansi.ai
+baseurl: mzansi.ai
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Jekyll template with example content for a not-for-profit organisation.
 author:
-  name:
-  email:
+  name: mzansi.ai
+  email: admin@mzansi.ai
   twitter: # twitter username without the @ symbol
 social:
   name: Cause Template
