@@ -4,15 +4,15 @@
 title: Mzansi.ai
 url: https://www.mzansi.ai
 baseurl:
-google_analytics_key:
+google_analytics_key: G-XLV2D20MQ0
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: Mzansi AI. AI stealth startup in Mzansi.
 author:
   name: mzansi
   email: admin@mzansi.ai
-  twitter: # twitter username without the @ symbol
+  twitter: _mzansi_ai # twitter username without the @ symbol
 social:
   name: Cause Template
   links:
