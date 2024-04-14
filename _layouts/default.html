@@ -19,11 +19,22 @@
 			</script>
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-XLV2D20MQ0"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-XLV2D20MQ0');
+		</script>
+
 	</head>
 	<body>
 		<nav>
 			<div class="container">
-				<a href="{{ site.baseurl }}">{% include logo.html %}</a>
+				<a href="{{ site.baseurl }}">{% include logo-320.html %}</a>
 			</div>
 		</nav>
 		<div class="content">
