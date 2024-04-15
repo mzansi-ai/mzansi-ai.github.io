@@ -92,17 +92,17 @@ title: Home
 		<h2 class="editable">Updates</h2>
 		
 		<p class="editable" style="text-align: center;">Watch this space.</p>
-		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Update</a></p>
+		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Update</a></p> -->
 		<div class="posts">
 			{% for post in site.posts %}
-				<div class="post"  href="{{ post.url }}">
+				<div class="post"  href="{{ site.baseurl }}/{{ post.url }}">
 					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
 					<div class="post-content">
 						<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
-						<h3>{{ post.title }}</h3>
+						<h3><a  target="_blank" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h3>
 
 						{{ post.content }}
-						<p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="btn"><strong>&#9998;</strong> Edit Update</a></p>
+						<!-- <p class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="btn"><strong>&#9998;</strong> Edit Update</a></p> -->
 					</div>
 				</div>
 			{% endfor %}
