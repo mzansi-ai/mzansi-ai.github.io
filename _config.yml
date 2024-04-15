@@ -5,6 +5,7 @@ title: Mzansi.ai
 url: https://www.mzansi.ai
 baseurl:
 google_analytics_key: G-XLV2D20MQ0
+production: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
