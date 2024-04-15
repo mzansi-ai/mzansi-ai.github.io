@@ -95,7 +95,7 @@ title: Home
 		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Update</a></p>
 		<div class="posts">
 			{% for post in site.posts %}
-				<div class="post">
+				<div class="post"  href="{{ post.url }}">
 					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
 					<div class="post-content">
 						<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
