@@ -128,3 +128,13 @@ form {
 		background: darken($brand-color, 5%);
 	}
 }
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-container > div {
+  margin: 10px;
+  text-align: center;
+}
