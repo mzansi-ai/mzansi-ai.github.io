@@ -10,14 +10,16 @@ production: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Mzansi AI. AI stealth startup in Mzansi.
+tagline: Creating search experiences for people by the people. Search difficult topics like the 2024 National Elections.
 author:
-  name: mzansi
+  name: mzansi.ai
   email: admin@mzansi.ai
   twitter: _mzansi_ai # twitter username without the @ symbol
 social:
-  name: Cause Template
+  name: Mzansi.ai
   links:
-    - https://github.com/CloudCannon/cause-jekyll-template
+    - https://twitter.com/_mzansi_ai
+    - https://github.com/mzansi-ai
 
 # -----
 # Build
@@ -53,7 +55,6 @@ defaults:
     values:
       layout: "default"
 
-#donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
 newsletter_action: "//your-mailchimp-action-url.com"
 
 plugins:
