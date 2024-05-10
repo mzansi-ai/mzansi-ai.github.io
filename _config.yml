@@ -60,6 +60,7 @@ newsletter_action: "//your-mailchimp-action-url.com"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile
