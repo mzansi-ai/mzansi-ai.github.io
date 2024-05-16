@@ -2,7 +2,7 @@
 layout: default
 title: election.mzansi.ai disclaimer
 ---
-
+*English*
 **Disclaimer**
 
 The information provided by the Election Info Bot is intended for general informational purposes only. All information on the bot is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the bot.
@@ -23,3 +23,88 @@ By using this bot, you acknowledge that you are using the information at your ow
 
 **Duration of bot**
 This bot will be deactivated for public use after the 2024 National elections in South Africa.
+
+*Afrikaans*
+**Vrywaring**
+
+Die inligting wat deur die Verkiesing Info Bot verskaf word, is bedoel vir algemene inligtingsdoeleindes alleen. Alle inligting op die bot word in goeie trou verskaf, maar ons maak geen voorstelling of waarborg van enige aard, uitdruklik of geïmpliseer, met betrekking tot die akkuraatheid, voldoendeheid, geldigheid, betroubaarheid, beskikbaarheid, of volledigheid van enige inligting op die bot nie.
+
+Hierdie bot verskaf nie regsadvies nie, en is ook nie 'n plaasvervanger vir advies van 'n gesertifiseerde professionele persoon nie. Gebruikers word aangemoedig om professionele raadgewers te raadpleeg vir advies oor spesifieke regs- of regulasievrae met betrekking tot verkiesingswette.
+
+Die werking van die Verkiesing Info Bot beteken nie 'n onderskrywing deur ons van enige politieke party, kandidaat, of boodskap wat oorgedra word nie. Interaksie met die bot behels geen vorm van verteenwoordiging, affiliasie, of onderskrywing van enige kandidaat of politieke party nie.
+
+**Neutraliteit en Onafhanklikheid**
+
+Die Verkiesing Info Bot is 'n onafhanklike platform en word nie deur enige politieke party, politieke veldtog, of nie-regeringsorganisasie (NRO) befonds nie. Ons missie is om onbevooroordeelde en nie-partydige inligting te verskaf om kiesers te help om ingeligte besluite te neem. Ons is verbind tot die handhawing van neutraliteit in al ons inhoud en interaksies.
+
+Alhoewel ons daarna streef om die bot op datum te hou met die mees onlangse en akkurate verkiesingsinligting, kan die landskap vinnig verander, en ons beveel gebruikers aan om die inligting te verifieer deur amptelike kanale of direkte kontak met verkiesingsowerhede. As jy voel ons het inligting gemis of jy wil hê relevante bronne moet by die bot gevoeg word, stuur asseblief 'n e-pos aan ons by admin@mzansi.ai.
+
+Deur hierdie bot te gebruik, erken jy dat jy die inligting op eie risiko gebruik. Die diensverskaffer sal nie aanspreeklik wees vir enige foute of weglatings in die inligting of vir die beskikbaarheid van hierdie inligting nie. Die verskaffer sal ook nie aanspreeklik wees vir enige verliese, beserings, of skade as gevolg van die vertoning of gebruik van hierdie inligting nie.
+
+**Duur van die bot**
+Hierdie bot sal gedeaktiveer word vir openbare gebruik na die 2024 Nasionale verkiesings in Suid-Afrika.
+
+*Zulu*
+**Umshwana wokuzihlangula**
+
+Ulwazi olunikezwe i-Election Info Bot luhloselwe izinjongo zolwazi olujwayelekile kuphela. Yonke imininingwane ekwi-bot inikezwa ngokwethembeka okuhle, nokho asenzi izethulo noma iwaranti yanoma yiluphi uhlobo, okuvezayo noma okushiwo, mayelana nokunemba, ukufaneleka, ukufaneleka, ukwethembeka, ukutholakala, noma ukuphelela kwanoma yiluphi ulwazi ku-bot.
+
+Le bot ayinikezi iseluleko sezomthetho, futhi ayithathi indawo yeseluleko esivela kuchwepheshe oqinisekisiwe. Abasebenzisi bakhuthazwa ukuthi baxhumane nabeluleki abangochwepheshe ukuze bathole iseluleko ngemibuzo ethile yezomthetho noma yokulawula mayelana nemithetho yokhetho.
+
+Ukusebenza kwe-Election Info Bot akuhlanganisi ukuvumela noma yiliphi iqembu lezombusazwe, ikhandidethi, noma umyalezo odluliswayo. Ukusebenzisana ne-bot akubandakanyi noma yiluphi uhlobo lokumeleleka, inhlangano, noma ukugunyazwa kwanoma yiliphi ikhandidethi noma iqembu lezepolitiki.
+
+**Ukungathathi hlangothi nokuzimela**
+
+I-Election Info Bot iyinkundla ezimele futhi ayixhaswa ngezimali yinoma yiliphi iqembu lezepolitiki, umkhankaso wezepolitiki, noma inhlangano engekho ngaphansi kukahulumeni (NGO). Umgomo wethu uwukuhlinzeka ngolwazi olungachemi nolungachemi ukuze sisize abavoti benze izinqumo ezinolwazi. Sizibophezele ekugcineni ukungathathi hlangothi kukho konke okuqukethwe kwethu nokusebenzisana.
+
+Nakuba silwela ukugcina i-bot ibuyekezwa ngolwazi lwakamuva nolunembile lokhetho, isimo sezwe singashintsha ngokushesha, futhi seluleka abasebenzisi ukuthi baqinisekise ulwazi ngeziteshi ezisemthethweni noma bathintane ngqo nabaphathi bokhetho.
+Uma uzwa sengathi sigeje imininingwane noma ungathanda ukuthola imithombo efanele ye-bot, sicela usithumele i-imeyili admin@mzansi.ai.
+
+Ngokusebenzisa le bot, uyavuma ukuthi usebenzisa ulwazi ngokuzifaka engozini. Umhlinzeki wesevisi ngeke athwale icala nganoma imaphi amaphutha noma ukweqiwa kolwazi noma ngokutholakala kwalolu lwazi. Umhlinzeki ngeke futhi abophezeleke kunoma yikuphi ukulahlekelwa, ukulimala, noma ukulimala okuvela ekuboniseni noma ukusetshenziswa kwalolu lwazi.
+
+*Xhoza*
+**Ubude be-bot**
+Le bot izovalwa ukuthi isetshenziswe umphakathi ngemva kokhetho lukazwelonke lwango-2024 eNingizimu Afrika.
+
+**I-Disclaimer**
+
+Ulwazi olunikezelwe yi-Election Info Bot yenzelwe iinjongo zolwazi ngokubanzi kuphela. Lonke ulwazi kwi-bot lunikezelwe ngokholo oluhle, nangona kunjalo asenzanga melo okanye iwaranti yalo naluphi na uhlobo, olucacileyo okanye oluthe ngqo, malunga nokuchaneka, ukwanela, ukunyaniseka, ukuthembeka, ukufumaneka, okanye ukugqibelela kwalo naluphi na ulwazi kwi-bot.
+
+Le bot ayiboneleli ngengcebiso yezomthetho, kwaye ayithathi indawo yeengcebiso ezivela kwingcali eqinisekisiweyo. Abasebenzisi bayakhuthazwa ukuba badibane nabacebisi abaziingcali ukuze bafumane iingcebiso malunga nemibuzo ethile yomthetho okanye yolawulo malunga nemithetho yonyulo.
+
+Ukusebenza kwe-Election Info Bot ayikukhuthazi naliphi na iqela lezopolitiko, umgqatswa, okanye umyalezo ogqithisiweyo. Ukusebenzisana ne-bot akubandakanyi naluphi na uhlobo lokumelwa, ukuzibandakanya, okanye ukuqinisekiswa kuye nawuphi na umgqatswa okanye iqela lezopolitiko.
+
+**Ukungathathi cala kunye nokuzimela**
+
+I-Election Info Bot liqonga elizimeleyo kwaye alixhaswa ngemali naliphi na iqela lezopolitiko, iphulo lezopolitiko, okanye umbutho ongekho phantsi korhulumente (NGO). Injongo yethu kukubonelela ngolwazi olungakhethi cala nolungakhethi cala ukunceda abavoti benze izigqibo ezizizo. Sizimisele ukugcina ukungathathi hlangothi kuwo wonke umxholo wethu kunye nokusebenzisana.
+
+Ngelixa sizama ukugcina i-bot ihlaziywa ngolwazi lonyulo lwamva nje noluchanekileyo, imbonakalo-mhlaba inokutshintsha ngokukhawuleza, kwaye sicebisa abasebenzisi ukuba baqinisekise ulwazi ngamatshaneli asemthethweni okanye banxibelelane ngokuthe ngqo nabasemagunyeni bonyulo.
+Ukuba uvakalelwa kukuba siphose ulwazi okanye ungathanda imithombo efanelekileyo yongezwe kwi-bot, nceda usithumelele i-imeyile admin@mzansi.ai.
+
+Ngokusebenzisa le bot, uyavuma ukuba usebenzisa ulwazi ngomngcipheko wakho. Umboneleli-nkonzo akayi kuba nabutyala bazo naziphi na iimpazamo okanye izinto ezishiyiweyo kwingcaciso okanye ngokufumaneka kolu lwazi. Umboneleli kwakhona akayi kuba noxanduva kuyo nayiphi na ilahleko, ukulimala, okanye umonakalo ovela kumboniso okanye ukusetyenziswa kolu lwazi.
+
+
+**Ubude bebhot**
+Le bot iya kwenziwa ingasebenzi ukuze isetyenziswe luluntu emva konyulo lweSizwe lowama-2024 eMzantsi Afrika.
+
+*French*
+**Clause de non-responsabilité**
+
+Les informations fournies par Election Info Bot sont uniquement destinées à des fins d’information générale. Toutes les informations sur le bot sont fournies de bonne foi, mais nous ne faisons aucune déclaration ou garantie d'aucune sorte, expresse ou implicite, concernant l'exactitude, l'adéquation, la validité, la fiabilité, la disponibilité ou l'exhaustivité de toute information sur le bot.
+
+Ce bot ne fournit pas de conseils juridiques et ne remplace pas les conseils d'un professionnel certifié. Les utilisateurs sont encouragés à consulter des conseillers professionnels pour obtenir des conseils sur des questions juridiques ou réglementaires spécifiques concernant les lois électorales.
+
+Le fonctionnement d’Election Info Bot ne constitue pas une approbation de notre part d’un parti politique, d’un candidat ou d’un message véhiculé. L'interaction avec le bot n'implique aucune forme de représentation, d'affiliation ou de soutien de la part d'un candidat ou d'un parti politique.
+
+**Neutralité et indépendance**
+
+Election Info Bot est une plateforme indépendante et n’est financée par aucun parti politique, campagne politique ou organisation non gouvernementale (ONG). Notre mission est de fournir des informations impartiales et non partisanes pour aider les électeurs à prendre des décisions éclairées. Nous nous engageons à maintenir la neutralité dans tous nos contenus et interactions.
+
+Bien que nous nous efforcions de maintenir le robot à jour avec les informations électorales les plus récentes et les plus précises, le paysage peut changer rapidement et nous conseillons aux utilisateurs de vérifier les informations via les canaux officiels ou en contactant directement les autorités électorales.
+Si vous pensez que nous avons manqué des informations ou si vous souhaitez que des sources pertinentes soient ajoutées au bot, veuillez nous envoyer un e-mail à admin@mzansi.ai.
+
+En utilisant ce bot, vous reconnaissez que vous utilisez les informations à vos propres risques. Le prestataire ne sera pas responsable des erreurs ou omissions dans les informations ni de la disponibilité de ces informations. Le fournisseur ne sera pas non plus responsable des pertes, blessures ou dommages résultant de l'affichage ou de l'utilisation de ces informations.
+
+
+**Durée du bot**
+Ce bot sera désactivé pour un usage public après les élections nationales de 2024 en Afrique du Sud.
