@@ -10,7 +10,7 @@ production: true
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Mzansi AI. AI stealth startup in Mzansi.
-tagline: Creating search experiences for people by the people. Search difficult topics like the 2024 National Elections.
+tagline: Building, securing and implementing Ai experiences people love in Mzansi.
 author:
   name: mzansi.ai
   email: admin@mzansi.ai
